@@ -27,7 +27,7 @@ This project is a **3D Rubik’s Cube simulation** built with **Three.js**. It a
 1. Clone the repository:
    bash
    
-[click here](https://github.com/ashenafi-webdev/Rubik-s-cube-/blob/main/kcube.html)
+[click here](https://github.com/ashenafi-webdev/Rubik-s-cube-/blob/main/Rubiscube.html)
 
 ##have a fun with our Rubik’s Cube 
 - which works in keyboard control and interactive graphics too
